@@ -3,6 +3,8 @@ Cell Evolved is a simple drawing app designed with Pre-K to Kindergarten student
 
 Deployed Application Link: 
 
+![Screenshot 1](src/assets/Cell_Evolved.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
