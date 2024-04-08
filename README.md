@@ -1,7 +1,7 @@
 # Cell Evolved
 Cell Evolved (Cell Evolution) is a simple drawing app designed with Pre-K to Kindergarten students in mind. It was made for schools that did not want student to access other applications during break time or snack time. This project has been reformatted into the latest version of [Angular CLI](https://github.com/angular/angular-cli). Students are allowed to download their drawings using the apps in-built image generation to download feature. Extra features are planned for 1-12 students at a later date. The Base code for this project is located in the app.component.html, app.component.css, app.component.ts. The code was made using a version of Angular 13 but works with the latest versions of Angular.
 
-Deployed Application Link: 
+Deployed Application Link: https://leighthemes.github.io/Cell_Evolved_Drawing_App/
 
 ![Screenshot 1](src/assets/Cell_Evolved.png)
 
